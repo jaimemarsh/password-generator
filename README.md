@@ -6,4 +6,4 @@ SO THAT I can create a strong password that provides greater security
 
 <img src="./assets/screenshot.png">
 
-Link :
+Link : https://jaimemarsh.github.io/password-generator/
